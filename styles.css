@@ -33,3 +33,13 @@ body{
     background-image: url(https://img.freepik.com/free-vector/abstract-sky-background-with-sugar-cotton-pink-clouds-design_1048-15328.jpg?t=st=1740362172~exp=1740365772~hmac=d2362c366f908f51508190ad7069e8ee00b120006e5b7b191e49a8b1a5baa6b9&w=2000);
     color: rgb(200, 110, 200);
 }
+img{
+    width: 500px;
+}
+footer ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
+}
